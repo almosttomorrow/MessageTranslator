@@ -1,6 +1,6 @@
 # Batch PDF to MT564 Translator
 
-This application allows users to upload multiple PDF files containing corporate action announcements and translates them into MT564 message format using OpenAI's GPT-3.5-turbo model.
+This application allows users to upload multiple PDF files containing corporate action announcements and translates them into MT564 message format using OpenAI's GPT-4 model.
 
 ## Features
 

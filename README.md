@@ -41,4 +41,3 @@ This application allows users to upload multiple PDF files containing corporate 
 ## License
 
 This project is licensed under the MIT License.
-.
